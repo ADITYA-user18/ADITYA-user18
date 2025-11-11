@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aditya G V</h1>
+<h1 align="center">Hi 👋, I'm Aditya Wandakar</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 ---
 
 ### 👨‍💻 About Me
-🎓 I’m currently pursuing **Computer Science and Engineering**  
+🎓 I’m currently pursuing **Computer Science and Engineering in KLS VDIT ,Haliyal**  
 💻 I’m focused on **MERN Stack Development** and **AI-based Projects**  
 🚀 I love building creative full-stack applications and learning cutting-edge tools  
 🎯 My goal: To become a skilled software developer solving real-world problems  
