@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-g-wandakar-875007343/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-wandakar-875007343/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aditya_g_wandkar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADITYA-user18)
 
