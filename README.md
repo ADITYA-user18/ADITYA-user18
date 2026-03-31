@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aditya Wandakar</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;MERN+Stack+Developer;GenAI+%26+Computer+Vision+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -6,7 +7,7 @@
 ---
 
 ### 👨‍💻 Professional Summary
-Innovative **Computer Science Engineer** specialized in **MERN Stack development**, Backend Engineering, and **Generative AI integration**. Adept at architecting scalable, secure applications and RESTful APIs. Gained hands-on experience in **Computer Vision** and data-driven solutions using Python. Proven ability to translate complex requirements into user-centric software with a focus on **Security and System Performance**.
+**Computer Science Engineer** specializing in **full-stack MERN development**, **backend systems**, and **AI solutions**, with experience in **Computer Vision** and **Machine Learning** using **TensorFlow**.
 
 ---
 
@@ -32,6 +33,7 @@ Innovative **Computer Science Engineer** specialized in **MERN Stack development
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     </td>
     <td align="center">
