@@ -71,7 +71,7 @@
 ---
 
 ### 🎓 Education & Certifications
-*   **Bachelor of Engineering (CSE)** | KLS VDIT, Haliyal | **CGPA: 8.8 / 10.0** (2022 – 2026)
+*   **Bachelor of Engineering (CSE)** | KLS VDIT, Haliyal | **CGPA: 9.01 / 10.0** (2022 – 2026)
 *   **IBM SkillBuild:** Full Stack Development (MERN Specialization)
 *   **Infosys Springboard:** Web Technology Fundamentals & JS Optimization
 *   **Cisco Networking Academy:** Python Programming Basics
